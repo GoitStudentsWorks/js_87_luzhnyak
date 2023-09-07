@@ -2,7 +2,7 @@
   "name": "project-bookshelf",
   "version": "1.0.0",
   "description": "",
-  "homepage": "https://GoitStudentsWorks.github.io/js_87_luzhnyak",
+  "homepage": "https://.github.io/js_87_luzhnyak",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /js_87_luzhnyak/"
